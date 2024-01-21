@@ -1,4 +1,5 @@
 sad# Contributors
+- [brunoblaise](https://github.com/brunoblaise)
 - test
 - secret
 - [Rudhram Saraswat](https://github.com/RUDHRAM01)
@@ -30,6 +31,7 @@ sad# Contributors
 - Felicia Mayeyane (https://github.com/Felicia-Mayeyane)
 - Kate Rasheed
 - [John Caleb ⚡](https://github.com/thejohncaleb)
+- [Rey Jao](https://github.com/jao-rey)
 - [Maria Carrera](https://github.com/MarieCourse)
 - [Debapriya sengupta](https://github.com/DebapriyaSengupta28)
 - [Hoin Shin](https://github.com/signalman)
@@ -43,6 +45,7 @@ sad# Contributors
 - [Tunde Suleiman] (https://github.com/tsuleiman03)
 - Temmy
 - Bhavya Singla
+- Gabriele Agosta
 - [Jon Gumero](https://github.com/jongumero)
 - [Thomas Fogarty](https://github.com/Thoss24)
 - [Ana Luisa Conrado](https://github.com/anaconrado) 
@@ -62,6 +65,7 @@ sad# Contributors
 - [Annuar](https://github.com/ramo-dev)
 - [Brian Kyalo](https://github.com/kyalo3)
 - [Aman](https://github.com/AmanWebDev2)
+- [Shrey joshi](https://github.com/Shreyyy07)
 - [Hikmah](https://github.com/Hikmahx)
 - [BALASANTHOSH01](https://github.com/BALASANTHOSH01)
 - [Greg Delgado](https://github.com/grd888)
@@ -234,6 +238,7 @@ Daniela Anghel
 - [DPHung]
 - [Angelica Michaca](https://github.com/Angelica-Michaca)
 - [Sivapannier]
+- [Nb](https://github.com/Neeraj6Maths)
 - [Arthur Griffith](https://github.com/agriffith18)
 - [charlesdzadu](https://github.com/charlesdzadu)
 - [Catherine Mokgothu](https://github.com/catherinemokgothu)
@@ -295,6 +300,7 @@ Daniela Anghel
 - [Shishir Chulliyil](https://github.com/shishirchulliyil)
 - [Temple Snowden](https://github.com/temple69)
 - [Kunal Sharma](https://github.com/Kunal926/Gender_Classification)
+- [ANJAN672](https://github.com/ANJAN672)
 - [Abdullah Kidwai](https://github.com/fauzank339)
 - [Alston Antony] (https://github.com/alston06)
 - [Sulejman Hoxha](https://github.com/sulejmanhoxha)
@@ -871,6 +877,7 @@ Alexander
 - [Brendan K. Schatzki](https://github.com/BKSchatzki)
 - [Ankit Dani] (https://github.com/ankitdani)
 - [Vamshi]
+- [Joseph Mickler](https://github.com/micklerj) 
 - [Arief Rahman](https://github.com/rahmanarief21)
 - [Jobayer Rahman](https://github.com/Jobayer98)
 - [Naufal Faqih K R](https://github.com/NaufR)
